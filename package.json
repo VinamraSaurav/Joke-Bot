@@ -1,0 +1,15 @@
+{
+  "name": "reactbot",
+  "version": "1.0.0",
+  "description": "This bot helps you do wonders.",
+  "main": "reactBot.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
